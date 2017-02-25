@@ -1,3 +1,11 @@
 *.pro.user
 *-Debug
 qqq.txt
+QtDebugTemp/
+helloword/bin/
+helloword/helloword.cbp
+helloword/helloword.depend
+helloword/helloword.layout
+helloword/obj/
+qqq
+
